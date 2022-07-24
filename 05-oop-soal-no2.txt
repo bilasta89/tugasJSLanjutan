@@ -1,0 +1,19 @@
+1. Apa itu Encapsulation? Mengapa kita membutuhkannya?
+jawaban:
+-  encapsulation merupakan mekanisme membungkus informasi sehingga dapat menyembunyikan 
+informasi yang seharusnya disembunyikan atau tidak. Mekanisme ini membungkus seluruh informasi menjadi satu kesatuan layaknya dibungkus pada sebuah kapsul. 
+Sehingga, dapat menjaga kebutuhan data dengan menerapkan pembatasan akses.
+- Enkapsulasi sangat penting dilakukan untuk menjaga kebutuhan program agar dapat diakses sewaktu-waktu, sekaligus menjaga keamanan informasi.
+
+
+2. Apa itu Abstraction? Mengapa kita membutuhkannya?
+- abstraksi adalah proses representasi data dan program dalam bentuk sama dengan pengertiannya, dengan menyembunyikan rincian / detail implementasi. 
+- Abstraksi mencoba menyembunyikan detail agar programmer dapat berfokus pada konsep tertentu saja pada satu waktu.
+
+3. Apa itu Inheritance? Mengapa kita membutuhkannya?
+- konsep pemrograman dimana sebuah class dapat 'menurunkan' property dan method yang dimilikinya kepada class lain. 
+- Konsep inheritance digunakan untuk memanfaatkan fitur 'code reuse' untuk menghindari duplikasi kode program
+
+4. Apa itu Polymorpishm? Mengapa kita membutuhkannya?
+- Polimorfisme dalam OOP merupakan sebuah konsep OOP di mana class memiliki banyak “bentuk” method yang berbeda, meskipun namanya sama. 
+Maksud dari “bentuk” adalah isinya yang berbeda, namun tipe data dan parameternya berbeda.
